@@ -55,6 +55,7 @@ li{
   width: var(--main-width);
   padding: 0.25in 0.25in 0 0.25in;
   font-size: 7pt;
+  margin-top: 35px;
 }
 
 #sidebar{
